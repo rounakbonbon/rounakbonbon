@@ -9,7 +9,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rounakbonbon&show_icons=true" alt="rounakbonbon" /></p>
 <p align="center">
 
-<a href="https://twitter.com/pabssen1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pabssen1" height="30" width="30" /></a>
+<a href="https://twitter.com/rounakbonbon10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rounakbonbon10" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/rounak-roychowdhury/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rounak-roychowdhury" height="30" width="30" /></a>
 <a href="https://www.instagram.com/rounak_roychowdhury/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rounak_roychowdhury" height="30" width="30" /></a>
 </p>
